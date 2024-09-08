@@ -1,0 +1,1 @@
+import{u as t,o as a,g as o,p as _}from"./index.13b059ff.js";const r={},s={key:0,class:"u-safe-bottom"};function c(e,n){return e.$uPlat==1?(a(),o("div",s)):_("",!0)}var f=t(r,[["render",c]]);export{f as default};
